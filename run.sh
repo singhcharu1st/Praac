@@ -1,0 +1,1 @@
+java -jar webgoat-server-8.0.0.M21.jar --server.port=8000 --server.address=0.0.0.0

@@ -1,0 +1,25 @@
+Please write the following hands-on answer within quotes " " in this text file.
+
+1 ) Injection --> SQL Injection Advanced
+        3 Slide - Write your answer here for the 1st Tab " "
+                       - Write your answer here for the 2nd Tab " "
+
+2 ) Injection --> SQL Injection Attack 
+        7 Slide - Write your answer here " "
+        8 Slide - Write your answer here " "
+
+3) Injection --> SQL Mitigation
+        8 Slide - Write your answer here " "
+
+4) Authentication -- > Passsword reset
+        4 Slide - Write your answer here " "
+
+5) Cross-Site Scripting (XSS)
+        2 Slide - Write your answer here " "
+
+6) Access Control Flaws --> Missing Function Level Access Control
+        2 Slide - Write your answer here " "
+
+7) Client Side --> Client side filtering
+        2 Slide - Write your answer here " "
+        3 Slide - Write your answer here " "
